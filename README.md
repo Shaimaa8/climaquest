@@ -339,7 +339,7 @@ Includes a video tutorial on how to use the platform, and the team's mission sta
 ## 📁 Project Structure
 
 ```
-Nasa/
+climaquest/
 ├── index.html                 # Home page
 ├── about.html                 # About Us page
 ├── exploreweather.html        # Plan Your Trip page
@@ -356,8 +356,7 @@ Nasa/
 │   └── nav.css
 └── pics/
     ├── logo.jpg
-    ├── van.jpg
-    └── final about.mp4
+    └── van.jpg
 ```
 
 ---
@@ -395,7 +394,9 @@ http://localhost:8000
 ## 👥 Team
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NASA%20Space%20Apps-Team%20ClimaQuest-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <a href="https://www.spaceappschallenge.org/2025/find-a-team/climaquest/?tab=project" target="_blank">
+    <img src="https://img.shields.io/badge/NASA%20Space%20Apps-Team%20ClimaQuest-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Space Apps - Team ClimaQuest"/>
+  </a>
 </p>
 
 Developed for the **NASA Space Apps Challenge** by:
@@ -406,18 +407,16 @@ Developed for the **NASA Space Apps Challenge** by:
 | Mariam Mohammed Ramadan | Shimaa Abd-ElAziz Ahmed |
 | Mariam Sameh Yasin | Habiba Abd-Elnaser Saad |
 
-<p align="center">
-  <a href="mailto:ClimaQuest.team@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-ClimaQuest.team%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
 ## 📄 License
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-Educational%20%2F%20Competition%20Use-yellow?style=for-the-badge"/>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License: MIT"/>
+  </a>
 </p>
 
 This project was built for educational / competition purposes as part of the NASA Space Apps Challenge.
