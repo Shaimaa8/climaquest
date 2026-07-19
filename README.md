@@ -1,5 +1,5 @@
-# 🌦️ ClimaQuest - Complete README.md
-```markdown
+# 🌦️ ClimaQuest -  README.md
+```
 <p align="center">
   <img src="pics/logo.jpg" width="120" alt="ClimaQuest Logo"/>
 </p>
