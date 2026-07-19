@@ -11,8 +11,9 @@ An AI-powered weather platform built for the <b>NASA Space Apps Challenge</b>, u
 
 <p align="center">
   <a href="https://www.spaceappschallenge.org/2025/find-a-team/climaquest/?tab=project" target="_blank">
-    <img src="https://img.shields.io/badge/2025%20NASA%20Space%20Apps-Global%20Nominee-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="Global Nominee-NASA Space Apps Challenge'25 "/>
+    <img src="https://img.shields.io/badge/Global%20Nominee%20%E2%80%93%20NASA%20Space%20Apps%20%2725-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="Global Nominee - NASA Space Apps '25"/>
   </a>
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
