@@ -9,6 +9,29 @@
 An AI-powered weather platform built for the <b>NASA Space Apps Challenge</b>, using NASA's historical Earth observation data to help people plan outdoor activities, learn about weather science, teach kids about climate, and support engineers with location-based climate risk data.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Space Apps Challenge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1QwpGr2r4ObSYYrQ4BtXvHurWlWo2m6Pg/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/▶️_WATCH-Project_Overview_Video-FF4B4B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Project Overview Video"/>
+  </a>
+  &nbsp;
+  <a href="https://climaquest.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_VISIT-Live_Website-2EA44F?style=for-the-badge" alt="Visit Live Website"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>🎥 Recorded in the very first stage of the project, this overview explains <b>why ClimaQuest matters</b> — the problem we set out to solve and the vision behind combining NASA data, AI predictions, and climate education in one platform.</i>
+</p>
+
 ---
 
 ## 📖 About the Project
@@ -23,6 +46,14 @@ ClimaQuest is more than a weather app — it's a full platform that combines:
 - **Dark / Light mode** across every page, saved in the browser
 
 The platform is powered by real open data sources: **NASA Earthdata**, **Open-Meteo**, **OpenWeather**, and **Leaflet** for maps.
+
+<p align="center">
+  <a href="#-features--pages-with-screenshots">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-project-structure">Structure</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-team">Team</a>
+</p>
 
 ---
 
@@ -157,6 +188,13 @@ An interactive, story-driven course that teaches kids about weather phenomena on
   <br/><i>Chapter video: "Teach Your Child – First Episode: Rainy Weather"</i>
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1HpYnkRvfyEDZBnqUhA5OS-tsIy2q1kwx/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/▶️_WATCH-Episode_Example-4B9EFF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Episode Example"/>
+  </a>
+  <br/><i>See a full animated episode in action — the story, the narration, and the safety tips kids learn along the way.</i>
+</p>
+
 ...followed by a kid-friendly explanation and safety tips for that weather type:
 
 <p align="center">
@@ -273,15 +311,28 @@ Includes a video tutorial on how to use the platform, and the team's mission sta
 
 ## 🛠️ Tech Stack
 
-- **HTML5 / CSS3** — page structure and styling, built with CSS variables for full Dark/Light theming
-- **JavaScript (Vanilla JS)** — theme switching, interactivity, and data logic
-- **[Chart.js](https://www.chartjs.org/)** — all weather charts (temperature trends, precipitation, humidity, wind, distribution)
-- **[Leaflet.js](https://leafletjs.com/)** — interactive maps for trip planning
-- **[Particles.js](https://vincentgarreau.com/particles.js/)** — animated particle background on the Weather Science page
-- **[jsPDF](https://github.com/parallax/jsPDF) + jsPDF-AutoTable** — exporting Engineering Hub reports to PDF
-- **[Font Awesome](https://fontawesome.com/)** — icons across the site
-- **Google Fonts (Inter)** — typography
-- **Data sources:** NASA Earthdata, Open-Meteo, OpenWeather
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Particles.js-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/jsPDF-DC3545?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Font%20Awesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
+</p>
+
+| Layer | Tools |
+|---|---|
+| 🧱 Structure & Style | **HTML5 / CSS3** — built with CSS variables for full Dark/Light theming |
+| ⚡ Interactivity | **JavaScript (Vanilla JS)** — theme switching, interactivity, and data logic |
+| 📊 Charts | **[Chart.js](https://www.chartjs.org/)** — temperature trends, precipitation, humidity, wind, distribution |
+| 🗺️ Maps | **[Leaflet.js](https://leafletjs.com/)** — interactive maps for trip planning |
+| ✨ Effects | **[Particles.js](https://vincentgarreau.com/particles.js/)** — animated particle background on the Weather Science page |
+| 📄 Export | **[jsPDF](https://github.com/parallax/jsPDF) + jsPDF-AutoTable** — Engineering Hub PDF reports |
+| 🎨 Icons & Type | **[Font Awesome](https://fontawesome.com/)** + **Google Fonts (Inter)** |
+| 🛰️ Data | **NASA Earthdata**, **Open-Meteo**, **OpenWeather** |
 
 ---
 
@@ -320,11 +371,15 @@ This is a static front-end project — no build step or package installation req
 
 **Or** run it with a local server (recommended, to avoid asset-loading issues):
 
-```bash
-# Using Python
-python3 -m http.server 8000
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 
-# Using Node.js (live-server)
+```bash
+python3 -m http.server 8000
+```
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+```bash
 npx live-server
 ```
 
@@ -333,25 +388,40 @@ Then open:
 http://localhost:8000
 ```
 
-> ⚠️ Note: The project loads some libraries from CDNs (Chart.js, Leaflet, Font Awesome), so an internet connection is required while running it.
+> ⚠️ **Note:** The project loads some libraries from CDNs (Chart.js, Leaflet, Font Awesome), so an internet connection is required while running it.
 
 ---
 
 ## 👥 Team
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NASA%20Space%20Apps-Team%20ClimaQuest-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+</p>
+
 Developed for the **NASA Space Apps Challenge** by:
 
-- Mariam Mohammed 
-- Mariam Mohammed Ramadan
-- Mariam Sameh Yasin
-- Fatma Mohammed Fathy
-- Shimaa Abd-ElAziz Ahmed
-- Habiba Abd-Elnaser Saad
+| Team Member | Team Member |
+|---|---|
+| Mariam Mohammed | Fatma Mohammed Fathy |
+| Mariam Mohammed Ramadan | Shimaa Abd-ElAziz Ahmed |
+| Mariam Sameh Yasin | Habiba Abd-Elnaser Saad |
 
-📧 Contact: ClimaQuest.team@gmail.com
+<p align="center">
+  <a href="mailto:ClimaQuest.team@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-ClimaQuest.team%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📄 License
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-Educational%20%2F%20Competition%20Use-yellow?style=for-the-badge"/>
+</p>
+
 This project was built for educational / competition purposes as part of the NASA Space Apps Challenge.
+
+<p align="center">
+  Made with 💙 for a safer, more climate-aware world — <b>ClimaQuest</b>
+</p>
